@@ -1,7 +1,7 @@
 
 # 🫀 ECG Denoising with Deep Learning
 
-<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-11.8+-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -11,9 +11,6 @@
 **A comprehensive deep learning framework for ECG signal denoising using rotating-epoch curriculum training on the MIT-BIH Arrhythmia Database.**
 
 [Overview](#-project-overview) · [Architecture](#%EF%B8%8F-model-architectures) · [Training](#-training-strategy) · [Results](#-results--performance) · [Plots](#-training-plots) · [Quick Start](#-quick-start) · [Configuration](#%EF%B8%8F-configuration) · [Structure](#-project-structure)
-
-</div>
----
 
 
 ---
